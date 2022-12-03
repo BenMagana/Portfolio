@@ -6,7 +6,7 @@ The setting is a failed colinization attempt around the theorized [Planet Nine](
 ## Mechanics
 
 ### Movement
-Localized grid movement and rotation. Movement in direction the player is looking.
+Localized grid movement and rotation. Movement in direction the player is looking. Camera movement is restricted to within a viable angle.
 ![](https://github.com/BenMagana/Portfolio/blob/main/Projects/Unity/PlanetNine/Img/Movement.gif)
 
 ### Instantiation
